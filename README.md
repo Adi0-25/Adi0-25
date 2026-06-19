@@ -55,20 +55,10 @@ Below are your public repositories (as listed on your account). I included each 
 - ticket-prioritization-engine — (No repository description provided.) Suggested: Front-end or prototype for ticket prioritization/management.  
   https://github.com/Adi0-25/ticket-prioritization-engine
 
-## 📌 Recommendations (quick)
-- Pin 4–6 repos that best show your strengths (suggested: AI-MEETING-MINUTES, Real-time-chat-application, SAP-P2P-PROJECT, DataEcosystem).
-- Add short READMEs to repos that lack descriptions, highlighting purpose, tech stack, and a short demo or screenshot.
-- Add a contact/email and LinkedIn link (optional) for recruiters.
-
 ## 📫 Contact
 - GitHub: https://github.com/Adi0-25
 - Email: adityakr00025@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aditya-kumar-06851b302?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
-If you want, I can:
-- Tweak any project descriptions (use more technical detail) or
-- Produce short README templates for specific repos (e.g., AI-MEETING-MINUTES, SAP-P2P-PROJECT) to help you present them better.
-
 
 <!--
 **Adi0-25/Adi0-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
